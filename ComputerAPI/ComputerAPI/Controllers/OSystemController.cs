@@ -45,13 +45,6 @@ namespace ComputerAPI.Controllers
         {
             var os = await computerContext.Osystems.FirstOrDefaultAsync(os => os.Id == id);
             return os != null ? Ok(os) : NotFound(new { message = "Nincs ilyen találat." });
-
-            /*if (os != null)
-            {
-                return Ok(os);
-            }
-
-            return NotFound(new { message = "Nincs ilyen találat." });*/
         }
 
         [HttpPut("{id}")]
