@@ -1,4 +1,3 @@
-C:\Users\Tanulo\Desktop\gitPM\ComputerAPI\ComputerAPI\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Tanulo\Desktop\gitPM\ComputerAPI\ComputerAPI\bin\Debug\net8.0\appsettings.json
 C:\Users\Tanulo\Desktop\gitPM\ComputerAPI\ComputerAPI\bin\Debug\net8.0\ComputerAPI.exe
 C:\Users\Tanulo\Desktop\gitPM\ComputerAPI\ComputerAPI\bin\Debug\net8.0\ComputerAPI.deps.json

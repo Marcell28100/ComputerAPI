@@ -5,4 +5,5 @@
     public record UpdateOsDto(string? Name);
 
     public record CreateCompDto(string Brand, string Type, double Display, int Memory);
+    public record UpdateCompDto(string Brand, string Type, double Display, int Memory);
 }
