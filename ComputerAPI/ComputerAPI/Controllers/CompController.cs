@@ -28,6 +28,8 @@ namespace ComputerAPI.Controllers
                 Type = createCompDto.Type,
                 Display = createCompDto.Display,
                 Memory = createCompDto.Memory,
+                CreatedTime = DateTime.Now,
+                OsId = createCompDto.OsId,
 
             };
 
